@@ -36,39 +36,31 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🌍 Domain Experience
 
-### 💻 Data Engineering & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Finance-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Healthcare-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Supply%20Chain-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Banking-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Operations%20Analytics-grey?style=for-the-badge">
+</p>
+
+---
+
+## 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
   <img src="https://img.shields.io/badge/dbt-FC6D26?style=for-the-badge&logo=dbt&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
-
----
-
-### 📊 Analytics & BI
-<p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/QlikSense-009848?style=for-the-badge&logo=qlik&logoColor=white">
   <img src="https://img.shields.io/badge/Celonis-0A66C2?style=for-the-badge&logo=celonis&logoColor=white">
-</p>
-
----
-
-### 🐍 Programming
-<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-</p>
-
----
-
-### ☁️ Cloud & Tools
-<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -103,17 +95,6 @@
 
 ---
 
-## 🌍 Domain Experience
-
-<p>
-  <img src="https://img.shields.io/badge/Finance-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Healthcare-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Supply%20Chain-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Banking-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Operations%20Analytics-grey?style=for-the-badge">
-</p>
-
----
 
 ## 📫 Let's Connect
 
