@@ -38,7 +38,7 @@
 
 ## 🌍 Domain Experience
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Finance-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Healthcare-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Supply%20Chain-orange?style=for-the-badge">
@@ -49,7 +49,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
   <img src="https://img.shields.io/badge/dbt-FC6D26?style=for-the-badge&logo=dbt&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white">
