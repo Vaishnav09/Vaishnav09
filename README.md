@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vaishnav Mulay</h1>
 
 <p align="center">
-  <strong>Data Analyst | Business Intelligence | Analytics Engineering</strong>
+  <strong>Product | Data Analyst | Business Intelligence | Analytics Engineering</strong>
 </p>
 
 <p align="center">
@@ -88,6 +88,7 @@
 - Connected product usage → revenue → retention  
 - Simulated real-world product analytics decision-making  
 
+---
 
 ### 🏡 [Airbnb Data Platform](https://github.com/Vaishnav09/Airbnb-Data-Platform)
 - Built a Bronze → Silver → Gold pipeline using Snowflake + dbt  
@@ -103,10 +104,19 @@
 
 ---
 
-### 🏢 [OMS Analytics Platform — dbt Cloud](https://github.com/Vaishnav09/oms-dbt-cloud-project)
-- Built dbt models to transform OMS data into analytics-ready datasets  
-- Applied dimensional modeling best practices  
-- Delivered structured data for reporting and analysis  
+### 🚨 [AI-Powered Revenue Monitoring System](https://github.com/Vaishnav09/ai-powered-revenue-monitoring-system)
+
+**Proactive revenue monitoring system that detects drops and explains root causes automatically**
+
+- Built an automated pipeline to track daily revenue vs rolling averages  
+- Identified revenue drops across segments (SMB, Mid-Market, Enterprise)  
+- Generated AI-powered explanations for anomalies using LLM workflows  
+- Automated alerting and insights to reduce manual analysis effort  
+
+**Impact Focus:**
+- Shifted analytics from reactive dashboards → proactive decision system  
+- Reduced time to identify revenue issues and root causes
+
 
 ---
 
