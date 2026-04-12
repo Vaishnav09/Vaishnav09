@@ -74,19 +74,18 @@
 
 ## 📂 Featured Projects
 
-### 🤖 [AI Product Impact Analysis](https://github.com/Vaishnav09/ai-product-impact-analysis)
+### 🚨 [AI-Powered Revenue Monitoring System](https://github.com/Vaishnav09/ai-powered-revenue-monitoring-system)
 
-**Analyzing how AI features drive user behavior, retention, and revenue**
+**Proactive revenue monitoring system that detects drops and explains root causes automatically**
 
-- Evaluated AI adoption, engagement, and churn across user segments  
-- Built user segmentation (Heavy, Light, Non-users) to track behavior patterns  
-- Analyzed MRR contribution and adoption trends by plan tier  
-- Identified drop-offs between first use and repeat usage  
-- Delivered business recommendations to improve retention and monetization  
+- Built an automated pipeline to track daily revenue vs rolling averages  
+- Identified revenue drops across segments (SMB, Mid-Market, Enterprise)  
+- Generated AI-powered explanations for anomalies using LLM workflows  
+- Automated alerting and insights to reduce manual analysis effort  
 
 **Impact Focus:**
-- Connected product usage → revenue → retention  
-- Simulated real-world product analytics decision-making  
+- Shifted analytics from reactive dashboards → proactive decision system  
+- Reduced time to identify revenue issues and root causes
 
 ---
 
@@ -104,19 +103,19 @@
 
 ---
 
-### 🚨 [AI-Powered Revenue Monitoring System](https://github.com/Vaishnav09/ai-powered-revenue-monitoring-system)
+### 🤖 [AI Product Impact Analysis](https://github.com/Vaishnav09/ai-product-impact-analysis)
 
-**Proactive revenue monitoring system that detects drops and explains root causes automatically**
+**Analyzing how AI features drive user behavior, retention, and revenue**
 
-- Built an automated pipeline to track daily revenue vs rolling averages  
-- Identified revenue drops across segments (SMB, Mid-Market, Enterprise)  
-- Generated AI-powered explanations for anomalies using LLM workflows  
-- Automated alerting and insights to reduce manual analysis effort  
+- Evaluated AI adoption, engagement, and churn across user segments  
+- Built user segmentation (Heavy, Light, Non-users) to track behavior patterns  
+- Analyzed MRR contribution and adoption trends by plan tier  
+- Identified drop-offs between first use and repeat usage  
+- Delivered business recommendations to improve retention and monetization  
 
 **Impact Focus:**
-- Shifted analytics from reactive dashboards → proactive decision system  
-- Reduced time to identify revenue issues and root causes
-
+- Connected product usage → revenue → retention  
+- Simulated real-world product analytics decision-making  
 
 ---
 
