@@ -74,6 +74,21 @@
 
 ## 📂 Featured Projects
 
+### 🤖 [AI Product Impact Analysis](https://github.com/Vaishnav09/ai-product-impact-analysis)
+
+**Analyzing how AI features drive user behavior, retention, and revenue**
+
+- Evaluated AI adoption, engagement, and churn across user segments  
+- Built user segmentation (Heavy, Light, Non-users) to track behavior patterns  
+- Analyzed MRR contribution and adoption trends by plan tier  
+- Identified drop-offs between first use and repeat usage  
+- Delivered business recommendations to improve retention and monetization  
+
+**Impact Focus:**
+- Connected product usage → revenue → retention  
+- Simulated real-world product analytics decision-making  
+
+
 ### 🏡 [Airbnb Data Platform](https://github.com/Vaishnav09/Airbnb-Data-Platform)
 - Built a Bronze → Silver → Gold pipeline using Snowflake + dbt  
 - Designed star schema with SCD Type 2 for historical tracking  
